@@ -31,3 +31,6 @@ A modern, full-stack web application built to serve the NIT Calicut community by
 | **Backend** | Node.js, Express.js                                  |
 | **Database** | MongoDB                              |
 | **Real-time** | Socket.IO                                            |
+
+---
+#### Sample commit by Varun
