@@ -34,3 +34,4 @@ A modern, full-stack web application built to serve the NIT Calicut community by
 
 ---
 #### Sample commit by Varun
+### Sample commit by Amisha
